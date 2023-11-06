@@ -1,6 +1,8 @@
 # quote_generator
-Basic project that generates cool dystopia/futurism/1984/freedom/philosophy quotes.
 
-Download background picture and place in same folder as .html file until it is included.
+Download and run the HTML file or visit https://quotegenstorageacct.z20.web.core.windows.net/ to view.
 
-Initial quotes will be replaced, and the project will be used to imitate the workflow of a multi-person team. This is a project to practice coding and learn to use Github.
+For any quote or author recommendations, please email: freeweb2021@protonmail.com, I plan to collect relevant quotes over time and add them!
+
+This is a beginner coding project that generates cool dystopia/futurism/1984/freedom/philosophy quotes.
+
